@@ -1,1 +1,2 @@
 # ProjectoRecenseamento
+Este Projecto se encontra incompleto mas o seu objectivo é de trazer um sistema para gerir um recenseamento eleitoral em uma certa cidade para garantir que todo o eleitor seja cadastrado e que os seus dados possam ser procurados e impressos pelo programa de maneira automática, é também essencial e um adicional que os dados sejam arquivados de maneira segura para que possam ser recuperados a posterior.
